@@ -11,7 +11,8 @@ Disciplina: Programação e Design para Web III — FAETERJ Barra Mansa (2026/1)
 Crie um arquivo `.env.local` na raiz do projeto com:
 
 ```
-NEXT_PUBLIC_API_URL=https://restcountries.com/v3.1
+NEXT_PUBLIC_API_URL=https://api.restcountries.com/countries/v5
+RESTCOUNTRIES_API_KEY=sua_chave_aqui
 ```
 
 O arquivo já está no `.gitignore` e não deve ser versionado.
